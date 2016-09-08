@@ -3,28 +3,25 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "martybell"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD?"
+      "value": "Password$001"
     },
     "nodesApi": {
-      "value": "GEN-UNIQUE"
+      "value": "http://nvd7aw7b.westeurope.cloudapp.azure.com:8080/v1/scripts/8D125E3B884519FB1279:1473328800000:dUuq1u1Mu62WxguWHgva4TerZQ"
     },
     "uniqueDeployPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "rblnoder9xdfwnt8d"
     },
     "vmSize": {
-      "value": "Standard_A2"
+      "value": "Standard_A1"
     },
     "nodesCount": {
       "value": 1
     },
     "deploymentType": {
-      "value": "Server"
-    },
-    "templateBase": {
-      "value": "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/"
+      "value": "Nodes"
     }
   }
 }
